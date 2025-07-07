@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-06T22:52:43 BDT" name="Default suite" finished-at="2025-07-06T22:52:56 BDT" duration-ms="13672">
+    <groups>
+    </groups>
+    <test started-at="2025-07-06T22:52:43 BDT" name="Default test" finished-at="2025-07-06T22:52:56 BDT" duration-ms="13672">
+      <class name="com.WebTest.qa.testcases.LoginWEBTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:44 BDT" name="setUp" finished-at="2025-07-06T22:52:46 BDT" duration-ms="1413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_valid_email(java.lang.String,java.lang.String)[pri:1, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:46 BDT" name="create_valid_email" data-provider="getValidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:46 BDT" duration-ms="485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummytree]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_valid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:46 BDT" name="tearDown" finished-at="2025-07-06T22:52:46 BDT" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:47 BDT" name="setUp" finished-at="2025-07-06T22:52:48 BDT" duration-ms="1001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:48 BDT" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummytree]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="tearDown" finished-at="2025-07-06T22:52:48 BDT" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="setUp" finished-at="2025-07-06T22:52:49 BDT" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:49 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:49 BDT" duration-ms="207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummytest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:49 BDT" name="tearDown" finished-at="2025-07-06T22:52:50 BDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:50 BDT" name="setUp" finished-at="2025-07-06T22:52:50 BDT" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:50 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:51 BDT" duration-ms="438" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummytest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:51 BDT" name="tearDown" finished-at="2025-07-06T22:52:51 BDT" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:51 BDT" name="setUp" finished-at="2025-07-06T22:52:52 BDT" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:52 BDT" duration-ms="169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="tearDown" finished-at="2025-07-06T22:52:52 BDT" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="setUp" finished-at="2025-07-06T22:52:53 BDT" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:53 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:54 BDT" duration-ms="193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummytree]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:54 BDT" name="tearDown" finished-at="2025-07-06T22:52:54 BDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:54 BDT" name="setUp" finished-at="2025-07-06T22:52:55 BDT" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:55 BDT" duration-ms="178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="tearDown" finished-at="2025-07-06T22:52:55 BDT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="setUp" finished-at="2025-07-06T22:52:56 BDT" duration-ms="1040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:56 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:56 BDT" duration-ms="198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DUMMYTREE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TEST1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_invalid_email -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:56 BDT" name="tearDown" finished-at="2025-07-06T22:52:56 BDT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WebTest.qa.testcases.LoginWEBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
