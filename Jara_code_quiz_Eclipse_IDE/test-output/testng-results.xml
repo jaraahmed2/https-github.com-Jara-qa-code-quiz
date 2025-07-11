@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-06T22:52:43 BDT" name="Default suite" finished-at="2025-07-06T22:52:56 BDT" duration-ms="13672">
+  <suite started-at="2025-07-09T22:19:46 BDT" name="Default suite" finished-at="2025-07-09T22:20:04 BDT" duration-ms="17851">
     <groups>
     </groups>
-    <test started-at="2025-07-06T22:52:43 BDT" name="Default test" finished-at="2025-07-06T22:52:56 BDT" duration-ms="13672">
+    <test started-at="2025-07-09T22:19:46 BDT" name="Default test" finished-at="2025-07-09T22:20:04 BDT" duration-ms="17851">
       <class name="com.WebTest.qa.testcases.LoginWEBTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:44 BDT" name="setUp" finished-at="2025-07-06T22:52:46 BDT" duration-ms="1413" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:50 BDT" name="setUp" finished-at="2025-07-09T22:19:52 BDT" duration-ms="2123" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_valid_email(java.lang.String,java.lang.String)[pri:1, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:46 BDT" name="create_valid_email" data-provider="getValidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:46 BDT" duration-ms="485" status="PASS">
+        <test-method signature="create_valid_email(java.lang.String,java.lang.String)[pri:1, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:52 BDT" name="create_valid_email" data-provider="getValidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:19:52 BDT" duration-ms="283" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_valid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:46 BDT" name="tearDown" finished-at="2025-07-06T22:52:46 BDT" duration-ms="137" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:52 BDT" name="tearDown" finished-at="2025-07-09T22:19:52 BDT" duration-ms="219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:47 BDT" name="setUp" finished-at="2025-07-06T22:52:48 BDT" duration-ms="1001" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:53 BDT" name="setUp" finished-at="2025-07-09T22:19:54 BDT" duration-ms="839" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:48 BDT" duration-ms="212" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:54 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:19:54 BDT" duration-ms="480" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="tearDown" finished-at="2025-07-06T22:52:48 BDT" duration-ms="155" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:54 BDT" name="tearDown" finished-at="2025-07-09T22:19:54 BDT" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:48 BDT" name="setUp" finished-at="2025-07-06T22:52:49 BDT" duration-ms="983" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:54 BDT" name="setUp" finished-at="2025-07-09T22:19:56 BDT" duration-ms="1125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:49 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:49 BDT" duration-ms="207" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:56 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:19:56 BDT" duration-ms="233" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:49 BDT" name="tearDown" finished-at="2025-07-06T22:52:50 BDT" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:56 BDT" name="tearDown" finished-at="2025-07-09T22:19:56 BDT" duration-ms="175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:50 BDT" name="setUp" finished-at="2025-07-06T22:52:50 BDT" duration-ms="768" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:56 BDT" name="setUp" finished-at="2025-07-09T22:19:57 BDT" duration-ms="1124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:50 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:51 BDT" duration-ms="438" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:57 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:19:57 BDT" duration-ms="238" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:51 BDT" name="tearDown" finished-at="2025-07-06T22:52:51 BDT" duration-ms="168" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:57 BDT" name="tearDown" finished-at="2025-07-09T22:19:58 BDT" duration-ms="184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:51 BDT" name="setUp" finished-at="2025-07-06T22:52:52 BDT" duration-ms="1027" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:58 BDT" name="setUp" finished-at="2025-07-09T22:19:59 BDT" duration-ms="1137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:52 BDT" duration-ms="169" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:59 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:19:59 BDT" duration-ms="198" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,15 +123,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="tearDown" finished-at="2025-07-06T22:52:52 BDT" duration-ms="156" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:59 BDT" name="tearDown" finished-at="2025-07-09T22:19:59 BDT" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:52 BDT" name="setUp" finished-at="2025-07-06T22:52:53 BDT" duration-ms="1045" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:19:59 BDT" name="setUp" finished-at="2025-07-09T22:20:00 BDT" duration-ms="1152" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:53 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:54 BDT" duration-ms="193" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:00 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:20:00 BDT" duration-ms="217" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -147,15 +147,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:54 BDT" name="tearDown" finished-at="2025-07-06T22:52:54 BDT" duration-ms="162" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:00 BDT" name="tearDown" finished-at="2025-07-09T22:20:01 BDT" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:54 BDT" name="setUp" finished-at="2025-07-06T22:52:55 BDT" duration-ms="998" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:01 BDT" name="setUp" finished-at="2025-07-09T22:20:02 BDT" duration-ms="1147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:55 BDT" duration-ms="178" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:02 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:20:02 BDT" duration-ms="196" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,15 +171,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="tearDown" finished-at="2025-07-06T22:52:55 BDT" duration-ms="179" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:02 BDT" name="tearDown" finished-at="2025-07-09T22:20:02 BDT" duration-ms="178" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:55 BDT" name="setUp" finished-at="2025-07-06T22:52:56 BDT" duration-ms="1040" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:02 BDT" name="setUp" finished-at="2025-07-09T22:20:03 BDT" duration-ms="1167" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:56 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-06T22:52:56 BDT" duration-ms="198" status="PASS">
+        <test-method signature="create_invalid_email(java.lang.String,java.lang.String)[pri:2, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:03 BDT" name="create_invalid_email" data-provider="getInalidusernameTestDataGoogleSheet" finished-at="2025-07-09T22:20:04 BDT" duration-ms="219" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -195,7 +195,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- create_invalid_email -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-06T22:52:56 BDT" name="tearDown" finished-at="2025-07-06T22:52:56 BDT" duration-ms="182" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.WebTest.qa.testcases.LoginWEBTest@4a8355dd]" started-at="2025-07-09T22:20:04 BDT" name="tearDown" finished-at="2025-07-09T22:20:04 BDT" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
